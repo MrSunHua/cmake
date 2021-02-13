@@ -1,0 +1,5 @@
+#cmakedefine __printf_log__
+
+#cmakedefine __cout_log__
+
+#cmakedefine __cout_string__
